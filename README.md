@@ -1,3 +1,5 @@
+# Nama : Diki Agus
+# NIM : 6702194021
 # Nama : Dimas Salim
 # NIM : 6702190047
 # Nama Tim : Kucing Abadi
