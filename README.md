@@ -33,5 +33,6 @@ mengirimkan sinyal gelap atau tidaknya pada arduino
 
 • Kesimpulan Praktikum
 Menjadi lebih mengerti tentang sistem kendali on - off.
+
 • Referensi
 https://www.robotics-university.com/2014/06/teori-teknik-pengendalian-onoff.html
