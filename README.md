@@ -4,7 +4,8 @@
 # NIM : 6702190047
 # Nama Tim : Kucing Abadi
 
-Modul 1 - Sistem-Kendali On - Off
+#           Modul 1 - Sistem-Kendali On - Off
+
 • Dasar Teori Sistem Kendali On/Off
 Dalam sistem kendali dua posisi, elemen pembangkit hanya mempunyai dua posisi
 tertentu, yaitu “On” dan “Off” (Ogata, Katsuhiko, 1996: 199). Sehingga sistem
